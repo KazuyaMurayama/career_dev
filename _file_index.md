@@ -1,6 +1,6 @@
 # ファイルインデックス — career_dev リポジトリ
 
-**最終更新:** 2026年4月15日
+**最終更新:** 2026年4月17日
 **用途:** 相談・作業時にまず参照し、必要なファイルを素早く特定するためのナビゲーション一覧
 **更新ルール:** 新規ファイル追加・ファイル廃止・ブランチ追加時に、本インデックスを**必ず同時更新**する（詳細は [CLAUDE.md](https://github.com/KazuyaMurayama/career_dev/blob/main/CLAUDE.md) 参照）
 
@@ -18,6 +18,7 @@
 | `claude/analyze-career-freelance-PCQl5` | スキルシート・職務経歴書の初期生成スクリプトと 2026/4/6版ファイル群 | 生成スクリプト参照用（ほぼアーカイブ扱い） |
 | `claude/check-repo-file-lists-desRY` | 並行セッションで税務関連ファイルを更新 | KoaZO と並行存在 |
 | `claude/analyze-career-freelance-Fqa1L` | 旧 _file_index.md の置き場所（現在は main に統合） | アーカイブ |
+| `claude/git-operation-rules-20Ivw` | Git操作ルール（ブランチ作成禁止等）を [CLAUDE.md](https://github.com/KazuyaMurayama/career_dev/blob/main/CLAUDE.md) に追加するための作業ブランチ（2026/4/17 main にマージ済み） | マージ済み・アーカイブ |
 
 ---
 
