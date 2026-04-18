@@ -12,8 +12,8 @@
 
 ## 🌳 メイン開発ブランチ
 
-- **作業ブランチ**: `claude/japanese-confirmation-KoaZO`（現在のメイン）
-- **ナビゲーションハブ**: `main`（`CLAUDE.md` と `_file_index.md`を保持）
+- **運用ブランチ**: `main` **一本のみ**（2026-04-17 インシデント以降、作業ブランチは廃止）
+- 全ファイル（スキルシート・職務経歴書・戦略ドキュメント・ルール・インデックス）を `main` に集約
 
 ---
 
@@ -114,11 +114,9 @@
 
 | ブランチ | 役割 |
 |---|---|
-| `main` | ナビゲーションハブ（[CLAUDE.md](https://github.com/KazuyaMurayama/career_dev/blob/main/CLAUDE.md) / [_file_index.md](https://github.com/KazuyaMurayama/career_dev/blob/main/_file_index.md)） |
-| **`claude/japanese-confirmation-KoaZO`** | **主要作業ブランチ**。スキルシート・職務経歴書最新版、エージェント対応、税務、契約書 |
-| `claude/analyze-freelance-income-3EGdc` | 市場調査・戦略・週次アクションプラン |
-| `claude/analyze-career-freelance-PCQl5` | 生成スクリプト・旧版ファイル（アーカイブ寄り） |
-| `claude/check-repo-file-lists-desRY` | 並行セッション（税務） |
+| `main` | **唯一の運用ブランチ**。全ファイル・ルール・インデックスを保持 |
+
+> **注:** 2026-04-17 のインシデントで全作業ブランチが喪失したため、以降は `main` 一本で運用します。作業ブランチを新規作成することは禁止です。
 
 ---
 
@@ -142,14 +140,36 @@
 
 ## 🌿 Git操作ルール
 
-### ❌ 禁止
-- ブランチ作成は一切禁止（Claude Codeがセッションを変えると読み取りにくいため）。禁止コマンド例：`git checkout -b` / `git switch -c` / `git branch <name>`
-- ユーザーから明示的な指示がない限り、現在のブランチを変更しない。
+### ❌ 絶対禁止
+- **ブランチ作成**は一切禁止。禁止コマンド例：`git checkout -b` / `git switch -c` / `git branch <name>`
+- **ブランチ削除**（ローカル・リモート両方）も禁止。禁止コマンド例：`git branch -d/-D` / `git push origin --delete` / Web UI での削除
+- ユーザーから明示的な指示がない限り、**現在のブランチを変更しない**（`git checkout` / `git switch`）
+- `git push --force` / `git reset --hard` / `git rebase -i` などの履歴改変操作
+
+### ⚠️ 削除防止三層チェック（万一ユーザーがブランチ削除を依頼した場合）
+
+ユーザーがブランチ削除を明示的に依頼した場合でも、以下を**全て**実施してから削除:
+
+1. **対象ブランチ名を完全一致で確認**
+   - Claude からユーザーへ「削除対象: `<完全なブランチ名>` で間違いないですか？」と明示確認
+   - 類似ブランチ名（例: `claude/japanese-confirmation-KoaZO` と `claude/git-operation-rules-20Ivw`）の取り違えを防ぐ
+
+2. **マージ済み状態を確認**
+   - `git branch --merged main` で削除対象が `main` にマージ済みであることを検証
+   - 未マージなら削除前にユーザーに警告
+
+3. **Web UI 削除を案内する場合は対象を具体的に明示**
+   - 「Web UIで削除してください」だけでは不足。「`<ブランチ名>` のゴミ箱アイコンをクリック」と対象を明示
+   - 複数ブランチ削除の依頼があっても、**1つずつ確認して実行**
 
 ### ✅ 許可
-- 現在のブランチ上での `git add`, `git commit`, `git push`
-- `git status`, `git log`, `git diff` などの読み取り操作
+- 現在のブランチ（`main`）上での `git add`, `git commit`, `git push`
+- `git status`, `git log`, `git diff`, `git branch --show-current` などの読み取り操作
 - `git pull` による最新化
+- `git fetch` による remote 情報更新
+
+### 📚 インシデント参照
+- 2026-04-17: ブランチ整理中、ユーザーの「ブランチ無しにできますか？」を誤解釈し、Web UI での削除案内時にブランチ名を具体的に明示しなかったため、**全作業ブランチが誤削除**され、数十ファイルを喪失。Claude Code の責任として他セッション・残存 docx から main に復旧。詳細は [_file_index.md](https://github.com/KazuyaMurayama/career_dev/blob/main/_file_index.md) 参照。
 
 ---
 
@@ -161,3 +181,4 @@
 | 2026-04-08 | ルール適用範囲を拡大（既存ファイル参照時も必須化）＋セルフチェック追加＋ブランチ別所在表追加 |
 | 2026-04-15 | **全面統合版**: main/作業ブランチ間の CLAUDE.md を整合、`_file_index.md` 参照義務を明記、`_file_index.md` 同時更新ルールを追加、最終ゴール（月収180万円）を明記 |
 | 2026-04-17 | Git操作ルールを追加（ブランチ作成禁止、現在ブランチでの操作に限定） |
+| 2026-04-17 | **重大インシデント発生**: 全作業ブランチを誤削除。数十ファイル喪失・一部復旧。運用を `main` 一本に集約。削除防止三層チェックをGit操作ルールに追加（ブランチ名完全一致確認・マージ状態確認・Web UI 操作時の対象明示） |
