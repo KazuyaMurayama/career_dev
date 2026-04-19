@@ -1,6 +1,6 @@
 # ファイルインデックス — career_dev リポジトリ
 
-**最終更新:** 2026年4月17日
+**最終更新:** 2026年4月18日
 **用途:** 相談・作業時にまず参照し、必要なファイルを素早く特定するためのナビゲーション一覧
 **更新ルール:** 新規ファイル追加・ファイル廃止・ブランチ追加時に、本インデックスを**必ず同時更新**する（詳細は [CLAUDE.md](https://github.com/KazuyaMurayama/career_dev/blob/main/CLAUDE.md) 参照）
 
@@ -96,7 +96,20 @@
 | [feasibility_scoring.md](https://github.com/KazuyaMurayama/career_dev/blob/main/feasibility_scoring.md) | MD | **実現性スコアリング**（パターン1/2/3を4視点で評価） |
 | [weekly_action_plan.md](https://github.com/KazuyaMurayama/career_dev/blob/main/weekly_action_plan.md) | MD | **週次アクションプラン**（12週間・Go/No-Go判定基準） |
 | [week1_details.md](https://github.com/KazuyaMurayama/career_dev/blob/main/week1_details.md) | MD | Week 1 詳細手順書 |
+| [week2_details.md](https://github.com/KazuyaMurayama/career_dev/blob/main/week2_details.md) | MD | Week 2 詳細手順書 |
+| [week3_details.md](https://github.com/KazuyaMurayama/career_dev/blob/main/week3_details.md) | MD | Week 3 詳細手順書 |
 | [action_plan_100tasks.md](https://github.com/KazuyaMurayama/career_dev/blob/main/action_plan_100tasks.md) | MD | 初期アクションプラン（100タスク版） |
+| [prompt_weekly_sparring.md](https://github.com/KazuyaMurayama/career_dev/blob/main/prompt_weekly_sparring.md) | MD | 週次アクション実行壁打ちプロンプト（新セッション用） |
+| [skill_sheet_updated.md](https://github.com/KazuyaMurayama/career_dev/blob/main/skill_sheet_updated.md) | MD | スキルシート 2パターン版（プロジェクトリード型/専門家型） |
+
+### 🛡️ セキュリティ・ガバナンス
+
+| ファイル名 | 種別 | 概要 |
+|---|:---:|---|
+| [security_governance_deepdive.md](https://github.com/KazuyaMurayama/career_dev/blob/main/security_governance_deepdive.md) | MD | AIセキュリティ・ガバナンス能力証明素材（面談・商談用） |
+| [ai_security_governance_framework_ch8.md](https://github.com/KazuyaMurayama/career_dev/blob/main/ai_security_governance_framework_ch8.md) | MD | 第8章 規制フレームワーク対応 |
+| [ai_security_governance_framework_ch9.md](https://github.com/KazuyaMurayama/career_dev/blob/main/ai_security_governance_framework_ch9.md) | MD | 第9章 インシデント対応 |
+| [ai_security_governance_framework_ch10.md](https://github.com/KazuyaMurayama/career_dev/blob/main/ai_security_governance_framework_ch10.md) | MD | 第10章 成熟度モデル |
 
 ### 📝 セッション記録・タスク
 
@@ -138,10 +151,17 @@
 
 | ファイル名 | 概要 | 状態 |
 |---|---|---|
-| `week2_details.md` / `week3_details.md` | Week 2/3 詳細手順書 | 🔴 喪失（weekly_action_plan から再構築可） |
-| `prompt_weekly_sparring.md` | 週次壁打ちプロンプト | 🔴 喪失 |
 | `generate_skill_sheet.py` / `generate_career_sheet.py` | docx生成スクリプト | 🔴 喪失（再実装可） |
 | `skill_sheet_styled.html` | HTML版スキルシート | 🔴 喪失（再生成可） |
+
+### 復旧済みファイル（2026-04-18 追加）
+
+| ファイル名 | 概要 | 状態 |
+|---|---|---|
+| week2_details.md / week3_details.md | Week 2/3 詳細手順書 | ✅ 復旧済み |
+| prompt_weekly_sparring.md | 週次壁打ちプロンプト | ✅ 復旧済み |
+| skill_sheet_updated.md | スキルシート 2パターン版 | ✅ 復旧済み |
+| security_governance_deepdive.md + ai_security_governance_framework_ch8/9/10.md | AIセキュリティ・ガバナンス素材（新規） | ✅ 新規追加 |
 
 ---
 
