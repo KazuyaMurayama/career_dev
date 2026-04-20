@@ -1,6 +1,6 @@
 # タスク管理 — career_dev プロジェクト
 
-**最終更新:** 2026年4月15日
+**最終更新:** 2026年4月20日
 **対象:** 男座 員也（Oza Kazuya）のフリーランス独立（2026年6月）に向けた Phase 0 準備タスク
 **関連:** [CLAUDE.md](https://github.com/KazuyaMurayama/career_dev/blob/main/CLAUDE.md) / [_file_index.md](https://github.com/KazuyaMurayama/career_dev/blob/main/_file_index.md)
 
@@ -10,11 +10,41 @@
 
 | 期限 | タスク | 関連ファイル・情報 | 状態 |
 |---|---|---|:-:|
-| **4/15(水) 14:00** | **スタートアップ税理士法人 初回相談（Google Meet）**<br>飯田氏、45分枠。相談事項5点（開業届／インボイス／所得合算／SaaS消費税／法人化年商目安） | Google Meet URL: `https://meet.google.com/igd-devu-sgz`<br>新井雅人氏とのミーティング | 🔥 |
-| **〜4/17(金)** | **INTLOOP 前森氏に回答**：紹介案件（月額200万×稼働40-80%）の辞退 + 契約書レビュー結果 | [INTLOOP NDA](https://github.com/KazuyaMurayama/career_dev/blob/claude/japanese-confirmation-KoaZO/%E3%80%90INT%E3%80%91%E7%A7%98%E5%AF%86%E4%BF%9D%E6%8C%81%E5%A5%91%E7%B4%84%E6%9B%B8%EF%BC%8820250210%E7%89%88%EF%BC%89.docx) / [INTLOOP MSA](https://github.com/KazuyaMurayama/career_dev/blob/claude/japanese-confirmation-KoaZO/%E6%A5%AD%E5%8B%99%E5%A7%94%E8%A8%97%E5%A5%91%E7%B4%84%E6%9B%B8%EF%BC%88IC%E3%83%BB%E4%B8%80%E4%BA%BA%E6%B3%95%E4%BA%BA%E7%94%A8%EF%BC%8920250210%20Ver2.docx) | 🔥 |
-| **〜4/17(金)** | **FLEXY 金子氏にアイドマ案件エントリー返信**（推敲済ドラフト済） | セキュリティガバナンス経験の記載含む回答を送信 | 🔴 |
-| **今週中** | **KENJINS サポート窓口に電話フォロー**（8日経過・返信なし） | TEL: 03-6808-5821 | 🟡 |
-| **今週中** | **Tier S エージェント3社に新規登録**：[POD（ランサーズ）／HiPro Tech／デジタル人材バンク] | [コンサルフリー](https://consulfree.com/lp/ai/) は登録済 | 🟡 |
+| **4/22 or 4/23** | **みらいワークス（フリーコンサルタント.jp）登録面談** | [agent_interview_prep.md](https://github.com/KazuyaMurayama/career_dev/blob/main/agent_interview_prep.md) | 🔥 |
+| 今週中 | **Scalar 案件（FLEXY 金子氏経由）** のクライアント面談設定フォロー | FLEXY に進捗問い合わせ | 🟡 |
+| 今週中 | **アイドマ・ホールディングス／もう1社案件（FLEXY）** 返信待ち | 時給2万〜2.5万円／稼働25〜50% でエントリー済 | 🟡 |
+
+---
+
+## ✅ 直近完了タスク（2026/4/15〜4/20）
+
+| 完了日 | タスク | 備考 |
+|---|---|---|
+| ✅ 〜4/17 | **INTLOOP 前森氏に辞退回答＋契約書レビュー結果連絡** | NDA/MSA は案件発生時に再検討の保留扱い |
+| ✅ 〜4/17 | **FLEXY 金子氏にアイドマ案件エントリー返信** | 送信済 |
+| ✅ 〜4/20 | **FLEXY 経由で もう1社にエントリー** | 時給2万〜2.5万円／稼働25〜50% |
+| ✅ 4/15 | スタートアップ税理士法人 飯田氏 初回相談（Google Meet） | **結果: カット判定**（回答品質が不十分）。売上規模拡大までは Claude Code 自作 Tax アドバイザーで代替 |
+
+---
+
+## ❌ 打ち切り・保留タスク
+
+| タスク | 理由 |
+|---|---|
+| KENJINS 本田氏 電話フォロー | **打ち切り**。8日経過返信なし、信頼性に懸念あり、今後のコンタクトは不要 |
+| スタートアップ税理士法人 顧問契約検討 | **カット**。質問回答品質が期待水準に満たず、Claude Code 自作 Tax アドバイザーで当面代替 |
+
+---
+
+## 📋 今後のアクション候補（優先度 再検討）
+
+| 候補 | 内容 | 備考 |
+|---|---|---|
+| HiPro Tech（Persol）新規登録 | Tier S（月額150〜350万円帯） | 当初「今週中」だったが、FLEXY 経由で 2案件エントリー中のため、反応次第で着手判断 |
+| デジタル人材バンク 新規登録 | Tier S | 同上 |
+| フリーコンサルBiz 登録 | Tier A | 余力次第 |
+| 顧問名鑑 登録 | Tier A | 余力次第 |
+| Findy Freelance 髙橋/中渡氏 | 継続フォロー or クローズ判断 | 保留中 |
 
 ---
 
@@ -22,53 +52,55 @@
 
 | 日時 | 相手 | 種類 | 場所 | 目的 |
 |---|---|---|---|---|
-| **4/15(水) 14:00〜14:45** | スタートアップ税理士法人 飯田氏 | 税務相談（無料初回） | Google Meet | 開業届・税務顧問契約検討 |
-| **4/22(水) 14:00〜** | みらいワークス（フリーコンサルタント.jp）登録担当 | 登録面談 | 調整アポ経由（オンライン） | Tier A エージェント登録 |
-| **4/23(木) 14:00〜** | みらいワークス（再調整版） | 登録面談（最新確定） | オンライン | ※上記と同じ案件、4/22→4/23 に変更 |
+| **4/22(水) 14:00〜** | みらいワークス（フリーコンサルタント.jp）登録担当 | 登録面談 | オンライン | Tier A エージェント登録 |
+| **4/23(木) 14:00〜** | みらいワークス（再調整版） | 登録面談（最新確定） | オンライン | ※4/22→4/23 へ変更の可能性あり、要確認 |
+
+> ⚠️ 4/22 / 4/23 のどちらが確定版か要再確認。
 
 ---
 
-## 🎯 エージェント対応状況（2026/4/15 時点）
+## 🎯 エージェント対応状況（2026/4/20 時点）
 
 ### Tier S（最優先・月額150〜350万円帯）
 
 | 要 | エージェント | ステータス | 次アクション |
 |:-:|---|---|---|
 | ⚪ | [コンサルフリー（SowLab）](https://consulfree.com/lp/ai/) | **登録完了**（4/9） | 案件紹介待ち |
-| 🔴 | HiPro Tech（Persol） | 未リーチ | 公式サイトから新規登録 |
-| 🔴 | デジタル人材バンク | 未リーチ | 公式サイトから新規登録 |
+| 📋 | HiPro Tech（Persol） | 未リーチ | **今後のアクション候補**（FLEXY 2案件の反応次第で判断） |
+| 📋 | デジタル人材バンク | 未リーチ | **今後のアクション候補**（同上） |
 
 ### Tier A（次点・月額120〜250万円帯）
 
 | 要 | エージェント | ステータス | 次アクション |
 |:-:|---|---|---|
-| ⚪ | フリーコンサルタント.jp（みらいワークス） | 4/22/23 面談確定 | 当日準備 |
-| 🟡 | ハイパフォーマー（INTLOOP）前森氏 | **事前面談完了 4/14**、月200万円案件は辞退方向 | 辞退メール送付、NDA/MSA対応判断 |
-| 🔴 | KENJINS 本田氏 | **8日返信なし** | 電話フォロー |
-| 🔴 | フリーコンサルBiz | 未リーチ | 登録検討 |
-| 🔴 | 顧問名鑑 | 未リーチ | 登録検討 |
+| 🔥 | フリーコンサルタント.jp（みらいワークス） | 4/22 or 4/23 面談確定 | 当日準備 |
+| ✅ | ハイパフォーマー（INTLOOP）前森氏 | **辞退回答済**（〜4/17）、NDA/MSA は案件発生時再検討 | 保留 |
+| ❌ | KENJINS 本田氏 | **打ち切り**（信頼性懸念） | なし |
+| 📋 | フリーコンサルBiz | 未リーチ | 余力次第 |
+| 📋 | 顧問名鑑 | 未リーチ | 余力次第 |
 
-### Tier B / 外（市場調査のみ）
+### Tier B / 外
 
 | 要 | エージェント | ステータス | 次アクション |
 |:-:|---|---|---|
-| ⚪ | FLEXY（サーキュレーション）金子氏 | **面談完了 4/10**、Scalar案件推薦中 | クライアント面談待ち／アイドマ案件にもエントリー |
+| 🟡 | FLEXY（サーキュレーション）金子氏 | **面談完了 4/10**、Scalar推薦中 + アイドマ/もう1社エントリー済 | クライアント面談待ち／進捗問い合わせ |
 | ✅ | Midworks（Branding Engineer）加藤氏 | ヒアリング完了 4/8 | フォロー待ち |
-| 🟡 | Findy Freelance 髙橋/中渡氏 | 継続中 | 返信ドラフト送信 or 保留判断 |
+| 🟡 | Findy Freelance 髙橋/中渡氏 | 継続中 | 保留 or クローズ判断 |
 
 ---
 
-## 📑 紹介中・推薦中の案件
+## 📑 紹介中・推薦中・エントリー中の案件
 
 | 案件 | エージェント | フル換算単価 | 稼働 | 月額想定 | ステージ | 判断 |
 |---|---|:-:|:-:|:-:|---|:-:|
 | **Scalar 株／AIコンサル** | FLEXY | 320〜400万円 | 週10-20h（25-50%） | 80〜200万円 | 推薦中・クライアント面談待ち | 🟢 最優先 |
-| **アイドマ・ホールディングス／CTO代行** | FLEXY | — | 要相談 | — | エントリー予定（返信ドラフト推敲済） | 🟢 検討中 |
-| ~~INTLOOP AI関連ビジネス化コンサル~~ | INTLOOP | 200万円 | 40-80% | 80〜160万円 | **辞退方向**（単価・稼働条件不一致） | 🔴 辞退 |
+| **アイドマ・ホールディングス／CTO代行** | FLEXY | 時給2万〜2.5万円 | 25〜50% | — | **エントリー済・返信待ち** | 🟢 検討中 |
+| **もう1社（FLEXY 経由）** | FLEXY | 時給2万〜2.5万円 | 25〜50% | — | **エントリー済・返信待ち** | 🟢 検討中 |
+| ~~INTLOOP AI関連ビジネス化コンサル~~ | INTLOOP | 200万円 | 40-80% | 80〜160万円 | **辞退済**（4/17） | 🔴 辞退 |
 
 ---
 
-## 🏢 INTLOOP 契約書レビュー結果サマリー
+## 🏢 INTLOOP 契約書レビュー結果サマリー（参考保存）
 
 ### NDA: 🟢 標準的・承諾可
 - 「相当期間」表現が2箇所曖昧だが業界標準
@@ -81,8 +113,8 @@
 3. **第25条（損害賠償上限なし）**: 「過去12ヶ月報酬額」に限定要請
 
 ### 推奨方針
-- 案件辞退のため今は契約書締結不要
-- **「条件合致案件紹介時に改めて確認する」として保留**
+- 辞退済・契約書締結不要
+- **「条件合致案件紹介時に改めて確認する」として保留**（INTLOOP 側と共有済）
 
 ---
 
@@ -90,11 +122,14 @@
 
 | タスク | 期限 | ステータス |
 |---|---|:-:|
-| スタートアップ税理士法人 初回相談 | **4/15(水) 14:00** | 🔥 明日 |
-| 開業届提出（税務署） | 6月上旬（開業から2ヶ月以内） | 📋 相談後 |
-| 青色申告承認申請書 | 6月上旬 | 📋 相談後 |
-| インボイス登録申請 | ASAP（審査1-2ヶ月） | 🔴 相談で方針確定後 |
-| 健康保険切替（任意継続 or 国保） | 退職後 | 📋 検討中 |
+| ~~スタートアップ税理士法人 初回相談~~ | 4/15(水) 14:00 | ✅ 実施済・**カット判定** |
+| **Claude Code 自作 Tax アドバイザー活用** | 継続 | 🟢 当面の税務相談手段 |
+| 開業届提出（税務署） | 6月上旬（開業から2ヶ月以内） | 📋 Claude Tax アドバイザーで方針確定後 |
+| 青色申告承認申請書 | 6月上旬 | 📋 同上 |
+| インボイス登録申請 | ASAP（審査1-2ヶ月） | 🔴 **早期着手が望ましい**（審査時間考慮） |
+| 健康保険切替（任意継続 or 国保） | 退職後（4/29以降） | 📋 Claude Tax アドバイザーで判断 |
+
+> 📌 売上規模が大きくなった段階（目安: 年商1,000万円超〜法人化検討フェーズ）で税理士顧問の再検討。
 
 ---
 
@@ -102,14 +137,10 @@
 
 | 用途 | ファイル |
 |---|---|
-| **スキルシート最新版** | [Oza_skill_sheet_20260414.docx](https://github.com/KazuyaMurayama/career_dev/blob/claude/japanese-confirmation-KoaZO/Oza_skill_sheet_20260414.docx) / [.md](https://github.com/KazuyaMurayama/career_dev/blob/claude/japanese-confirmation-KoaZO/Oza_skill_sheet_20260414.md) |
-| **職務経歴書最新版** | [Oza_Career_sheet_20260414.docx](https://github.com/KazuyaMurayama/career_dev/blob/claude/japanese-confirmation-KoaZO/Oza_Career_sheet_20260414.docx) |
-| **エージェント初回コンタクトメール** | [agent_email_template.md](https://github.com/KazuyaMurayama/career_dev/blob/claude/japanese-confirmation-KoaZO/agent_email_template.md) |
-
-### 変更履歴の要点（v5: 2026/4/14）
-- **セキュリティ・ガバナンス**セクション追加（Azure OpenAI／データ分類／監査ログ／個人情報ポリシー）
-- カラースキーム統一（▎金色／▎紺色／説明濃紺）
-- レイアウト最適化でワード3ページに収納（職務経歴書）
+| **スキルシート最新版（v6）** | [Oza_skill_sheet_20260417.docx](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_skill_sheet_20260417.docx) / [.md](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_skill_sheet_20260417.md) |
+| **職務経歴書最新版（v6）** | [Oza_Career_sheet_20260417.docx](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260417.docx) / [.md](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260417.md) |
+| **エージェント初回コンタクトメール** | [agent_email_template.md](https://github.com/KazuyaMurayama/career_dev/blob/main/agent_email_template.md) |
+| **エージェント面談準備** | [agent_interview_prep.md](https://github.com/KazuyaMurayama/career_dev/blob/main/agent_interview_prep.md) |
 
 ---
 
@@ -121,25 +152,27 @@
 - 単価が下がる場合：300万 → 280万 → 250万に段階的緩和
 
 ### スケジュール
-- **2026/4/29(水)**: STANDARD 退職日（確定）
-- **2026/6/1〜**: フリーランス本格稼働（理想）
+- **2026/4/29(水)**: STANDARD 退職日（確定・残り9日）
+- **2026/6/1〜**: フリーランス本格稼働（理想・残り42日）
 - **2026/7開始**: バックアップ
 
-### 進捗サマリー
-- ✅ スキルシート／職務経歴書 最新版確定
-- ✅ エージェント 6社以上と接触（Tier A を3社確保）
-- ✅ 面談 3社完了（Midworks／FLEXY／INTLOOP）
-- ⏳ 税務相談 初回（4/15）
-- ⏳ クライアント面談（Scalar 推薦中）
-- 🔴 Tier S 3社中2社が未リーチ（HiPro Tech／デジタル人材バンク）
+### 進捗サマリー（4/20 時点）
+- ✅ スキルシート／職務経歴書 最新版 v6 確定（4/17）
+- ✅ エージェント 6社以上と接触、面談 3社完了（Midworks／FLEXY／INTLOOP）
+- ✅ FLEXY 経由で **3案件エントリー中**（Scalar + アイドマ + もう1社）
+- ✅ INTLOOP 案件辞退完了（条件不一致）
+- ✅ 税務は Claude Code 自作アドバイザーで内製化方針確定
+- ⏳ みらいワークス 登録面談（4/22 or 4/23）
+- ❌ KENJINS 打ち切り（信頼性懸念）
+- 📋 Tier S 残り2社（HiPro Tech／デジタル人材バンク）は今後のアクション候補
 
 ---
 
 ## 📌 次セッション開始時のチェックリスト
 
 1. **[_file_index.md](https://github.com/KazuyaMurayama/career_dev/blob/main/_file_index.md) を読む** — 最新ファイルの確認
-2. **本 [tasks.md](https://github.com/KazuyaMurayama/career_dev/blob/claude/japanese-confirmation-KoaZO/tasks.md) を読む** — 前回セッションからの引き継ぎタスクを確認
-3. 最優先タスク（🔥🔴）の状況を確認し、対応
+2. **本 [tasks.md](https://github.com/KazuyaMurayama/career_dev/blob/main/tasks.md) を読む** — 前回セッションからの引き継ぎタスクを確認
+3. 最優先タスク（🔥🟡）の状況を確認し、対応
 4. 新しい情報があれば本ファイルと [_file_index.md](https://github.com/KazuyaMurayama/career_dev/blob/main/_file_index.md) を同時更新
 
 ---
@@ -149,3 +182,4 @@
 | 日付 | 変更内容 |
 |---|---|
 | 2026-04-15 | 初版作成。セッション終了時点のタスク・進捗・引き継ぎ事項を網羅 |
+| 2026-04-20 | INTLOOP/FLEXY アイドマ エントリー完了反映、FLEXY もう1社エントリー追加、税理士相談カット・Claude Tax アドバイザー内製化方針反映、KENJINS 打ち切り、HiPro Tech/デジタル人材バンクを「今後のアクション候補」に移動、リンクを全て main ブランチに修正 |
