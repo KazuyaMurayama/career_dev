@@ -1,6 +1,6 @@
 # ファイルインデックス — career_dev リポジトリ
 
-**最終更新:** 2026年4月18日
+**最終更新:** 2026年4月21日
 **用途:** 相談・作業時にまず参照し、必要なファイルを素早く特定するためのナビゲーション一覧
 **更新ルール:** 新規ファイル追加・ファイル廃止・ブランチ追加時に、本インデックスを**必ず同時更新**する（詳細は [CLAUDE.md](https://github.com/KazuyaMurayama/career_dev/blob/main/CLAUDE.md) 参照）
 
@@ -39,7 +39,7 @@
 | やりたいこと | 参照ファイル（最新版へのリンク） |
 |---|---|
 | **スキルシート最新版を確認・送付する** | ★ [Oza_skill_sheet_20260417.docx](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_skill_sheet_20260417.docx) / [.md](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_skill_sheet_20260417.md) |
-| **職務経歴書最新版を確認・送付する** | ★ [Oza_Career_sheet_20260417.docx](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260417.docx) / [.md](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260417.md) |
+| **職務経歴書最新版を確認・送付する** | ★ [Oza_Career_sheet_20260421.docx](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260421.docx) / [.md](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260421.md)（**v7**: SCM・BPR セクション追加、Amazon SCM 横断実績を追加） |
 | **今週/今後のアクションを確認する** | [weekly_action_plan.md](https://github.com/KazuyaMurayama/career_dev/blob/main/weekly_action_plan.md) → [week1_details.md](https://github.com/KazuyaMurayama/career_dev/blob/main/week1_details.md) |
 | **エージェント初回コンタクト用メール** | [agent_email_template.md](https://github.com/KazuyaMurayama/career_dev/blob/main/agent_email_template.md) |
 | **エージェント面談準備をする** | [agent_interview_prep.md](https://github.com/KazuyaMurayama/career_dev/blob/main/agent_interview_prep.md) |
@@ -69,7 +69,8 @@
 |---|:---:|---|
 | [男座員也_職務経歴書_データサイエンティスト_20250713_v3.docx](https://github.com/KazuyaMurayama/career_dev/blob/main/%E7%94%B7%E5%BA%A7%E5%93%A1%E4%B9%9F_%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8_%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88_20250713_v3.docx) | Word | 旧職務経歴書（2025年7月版）。独立前の資料 |
 | [Oza_Career_sheet_20260414.docx](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260414.docx) / [.md](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260414.md) | Word/MD | 2026/4/14 版。セキュリティ・ガバナンス追加、3ページ収納 |
-| **[Oza_Career_sheet_20260417.docx](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260417.docx)** / **[.md](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260417.md)** | Word/MD | ★**最新版（2026/4/17）**。セクション順変更、研修受講者数100名超に更新 |
+| [Oza_Career_sheet_20260417.docx](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260417.docx) / [.md](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260417.md) | Word/MD | v6（2026/4/17）。セクション順変更、研修受講者数100名超に更新 |
+| **[Oza_Career_sheet_20260421.docx](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260421.docx)** / **[.md](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260421.md)** | Word/MD | ★**最新版 v7（2026/4/21）**。SCM・業務改革（BPR）セクション新設、Amazon SCM 横断プロジェクト実績（業務工数30%削減・役員会承認）を追加。稼働開始2026/5/1〜へ更新 |
 
 ### 📧 エージェント対応
 
@@ -181,7 +182,8 @@
 | 旧版 | [男座員也_職務経歴書_20250713_v3.docx](https://github.com/KazuyaMurayama/career_dev/blob/main/%E7%94%B7%E5%BA%A7%E5%93%A1%E4%B9%9F_%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8_%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88_20250713_v3.docx) | 2025/7/13 | 独立前の旧職務経歴書 |
 | v1〜v4 | （旧版） | 2026/4/6〜4/7 | 🔴 2026-04-17 インシデントで喪失 |
 | v5 | [Oza_Career_sheet_20260414.docx](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260414.docx) / [.md](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260414.md) | 2026/4/14 | セキュリティ・ガバナンス追加、色統一、3ページ収納 |
-| **v6（最新）** | [Oza_Career_sheet_20260417.docx](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260417.docx) / [.md](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260417.md) | 2026/4/17 | セクション順変更、研修受講者数100名超、PMO講師育成数値更新 |
+| v6 | [Oza_Career_sheet_20260417.docx](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260417.docx) / [.md](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260417.md) | 2026/4/17 | セクション順変更、研修受講者数100名超、PMO講師育成数値更新 |
+| **v7（最新）** | [Oza_Career_sheet_20260421.docx](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260421.docx) / [.md](https://github.com/KazuyaMurayama/career_dev/blob/main/Oza_Career_sheet_20260421.md) | 2026/4/21 | SCM・業務改革（BPR）セクション新設、Amazon SCM 横断プロジェクト実績（業務工数30%削減・役員会承認）を追加、EXECUTIVE SUMMARY を7領域対応に拡張、稼働開始を2026/5/1〜へ前倒し |
 
 ---
 
