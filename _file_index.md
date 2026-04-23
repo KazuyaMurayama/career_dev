@@ -1,6 +1,6 @@
 # ファイルインデックス — career_dev リポジトリ
 
-**最終更新:** 2026年4月21日
+**最終更新:** 2026年4月23日
 **用途:** 相談・作業時にまず参照し、必要なファイルを素早く特定するためのナビゲーション一覧
 **更新ルール:** 新規ファイル追加・ファイル廃止・ブランチ追加時に、本インデックスを**必ず同時更新**する（詳細は [CLAUDE.md](https://github.com/KazuyaMurayama/career_dev/blob/main/CLAUDE.md) 参照）
 
@@ -108,9 +108,35 @@
 | ファイル名 | 種別 | 概要 |
 |---|:---:|---|
 | [security_governance_deepdive.md](https://github.com/KazuyaMurayama/career_dev/blob/main/security_governance_deepdive.md) | MD | AIセキュリティ・ガバナンス能力証明素材（面談・商談用） |
+| [ai_security_governance_framework.md](https://github.com/KazuyaMurayama/career_dev/blob/main/ai_security_governance_framework.md) | MD | AIセキュリティ・ガバナンスフレームワーク（本体） |
+| [ai_security_governance_framework_ch6.md](https://github.com/KazuyaMurayama/career_dev/blob/main/ai_security_governance_framework_ch6.md) | MD | 第6章 |
+| [ai_security_governance_framework_ch7.md](https://github.com/KazuyaMurayama/career_dev/blob/main/ai_security_governance_framework_ch7.md) | MD | 第7章 |
 | [ai_security_governance_framework_ch8.md](https://github.com/KazuyaMurayama/career_dev/blob/main/ai_security_governance_framework_ch8.md) | MD | 第8章 規制フレームワーク対応 |
 | [ai_security_governance_framework_ch9.md](https://github.com/KazuyaMurayama/career_dev/blob/main/ai_security_governance_framework_ch9.md) | MD | 第9章 インシデント対応 |
 | [ai_security_governance_framework_ch10.md](https://github.com/KazuyaMurayama/career_dev/blob/main/ai_security_governance_framework_ch10.md) | MD | 第10章 成熟度モデル |
+
+### 📊 AIセキュリティ レポート（reports/）
+
+| ファイル名 | 種別 | 概要 |
+|---|:---:|---|
+| [reports/part1_llm_threat_guardrails.md](https://github.com/KazuyaMurayama/career_dev/blob/main/reports/part1_llm_threat_guardrails.md) | MD | Part1: LLM脅威・ガードレール |
+| [reports/part2_data_governance_iam.md](https://github.com/KazuyaMurayama/career_dev/blob/main/reports/part2_data_governance_iam.md) | MD | Part2: データガバナンス・IAM |
+| [reports/part3_audit_xai_ir.md](https://github.com/KazuyaMurayama/career_dev/blob/main/reports/part3_audit_xai_ir.md) | MD | Part3: 監査・XAI・インシデント対応 |
+| [reports/part4_regulatory_frameworks.md](https://github.com/KazuyaMurayama/career_dev/blob/main/reports/part4_regulatory_frameworks.md) | MD | Part4: 規制フレームワーク |
+| [reports/part5_architecture_maturity.md](https://github.com/KazuyaMurayama/career_dev/blob/main/reports/part5_architecture_maturity.md) | MD | Part5: アーキテクチャ・成熟度 |
+| [reports/_tmp/part1_rev_a.md](https://github.com/KazuyaMurayama/career_dev/blob/main/reports/_tmp/part1_rev_a.md) | MD | Part1 改訂版A（一時ファイル） |
+| [reports/_tmp/part1_rev_b.md](https://github.com/KazuyaMurayama/career_dev/blob/main/reports/_tmp/part1_rev_b.md) | MD | Part1 改訂版B（一時ファイル） |
+
+### 📦 SCM・BPR レポート
+
+| ファイル名 | 種別 | 概要 |
+|---|:---:|---|
+| [scm_reports_redesign_v2_plan.md](https://github.com/KazuyaMurayama/career_dev/blob/main/scm_reports_redesign_v2_plan.md) | MD | SCMレポート再設計v2 計画書 |
+| [report_01_scm_ai_rpa_framework.md](https://github.com/KazuyaMurayama/career_dev/blob/main/report_01_scm_ai_rpa_framework.md) | MD | SCM×AI×RPAフレームワーク |
+| [report_02_bpr_asis_tobe_gap.md](https://github.com/KazuyaMurayama/career_dev/blob/main/report_02_bpr_asis_tobe_gap.md) | MD | BPR As-Is/To-Be ギャップ分析 |
+| [report_03_demand_forecast_inventory_ai.md](https://github.com/KazuyaMurayama/career_dev/blob/main/report_03_demand_forecast_inventory_ai.md) | MD | 需要予測・在庫AI |
+| [report_04_logistics_dispatch_automation.md](https://github.com/KazuyaMurayama/career_dev/blob/main/report_04_logistics_dispatch_automation.md) | MD | 物流・配送自動化 |
+| [report_05_project_roadmap_stakeholder.md](https://github.com/KazuyaMurayama/career_dev/blob/main/report_05_project_roadmap_stakeholder.md) | MD | プロジェクトロードマップ・ステークホルダー |
 
 ### 📝 セッション記録・タスク
 
@@ -118,6 +144,7 @@
 |---|:---:|---|
 | [session_summary_20260407.md](https://github.com/KazuyaMurayama/career_dev/blob/main/session_summary_20260407.md) | MD | 2026/4/7 セッションサマリー |
 | [tasks.md](https://github.com/KazuyaMurayama/career_dev/blob/main/tasks.md) | MD | タスク管理・セッション引き継ぎ（最優先タスク・エージェント状況・案件パイプライン・税務） |
+| [progress.md](https://github.com/KazuyaMurayama/career_dev/blob/main/progress.md) | MD | 進捗管理 |
 
 ### 🔧 ルール・ナビゲーション
 
@@ -125,6 +152,7 @@
 |---|:---:|---|
 | [CLAUDE.md](https://github.com/KazuyaMurayama/career_dev/blob/main/CLAUDE.md) | MD | Claude Codeセッション開始時の必須参照ガイド |
 | [_file_index.md](https://github.com/KazuyaMurayama/career_dev/blob/main/_file_index.md) | MD | **このファイル**。main 全ファイル概要インデックス |
+| [Timeout_Prevention.md](https://github.com/KazuyaMurayama/career_dev/blob/main/Timeout_Prevention.md) | MD | タイムアウト防止ガイド |
 
 ---
 
