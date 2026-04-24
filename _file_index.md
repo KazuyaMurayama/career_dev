@@ -1,6 +1,6 @@
 # ファイルインデックス — career_dev リポジトリ
 
-**最終更新:** 2026年4月23日
+**最終更新:** 2026年4月24日
 **用途:** 相談・作業時にまず参照し、必要なファイルを素早く特定するためのナビゲーション一覧
 **更新ルール:** 新規ファイル追加・ファイル廃止・ブランチ追加時に、本インデックスを**必ず同時更新**する（詳細は [CLAUDE.md](https://github.com/KazuyaMurayama/career_dev/blob/main/CLAUDE.md) 参照）
 
@@ -124,6 +124,10 @@
 | [reports/part3_audit_xai_ir.md](https://github.com/KazuyaMurayama/career_dev/blob/main/reports/part3_audit_xai_ir.md) | MD | Part3: 監査・XAI・インシデント対応 |
 | [reports/part4_regulatory_frameworks.md](https://github.com/KazuyaMurayama/career_dev/blob/main/reports/part4_regulatory_frameworks.md) | MD | Part4: 規制フレームワーク |
 | [reports/part5_architecture_maturity.md](https://github.com/KazuyaMurayama/career_dev/blob/main/reports/part5_architecture_maturity.md) | MD | Part5: アーキテクチャ・成熟度 |
+| [reports/part1-1_threat_landscape_and_filters.md](https://github.com/KazuyaMurayama/career_dev/blob/main/reports/part1-1_threat_landscape_and_filters.md) | MD | Part1-1補強: 脅威の深層理解とフィルタリング技術比較（Azure/Claude/Gemini/OSSマトリクス） |
+| [reports/part1-2_execution_and_industries.md](https://github.com/KazuyaMurayama/career_dev/blob/main/reports/part1-2_execution_and_industries.md) | MD | Part1-2補強: 実行ステップ詳細と5業界別適応例（製造/金融/製薬/EC/インフラ） |
+| [reports/part1-3_critical_review_and_gaps.md](https://github.com/KazuyaMurayama/career_dev/blob/main/reports/part1-3_critical_review_and_gaps.md) | MD | Part1-3補強: 既存3本の批判的レビュー（訂正5項目・OWASP未カバー補強・エージェント特化リスク） |
+| [reports/part1-4_senior_depth_and_interview.md](https://github.com/KazuyaMurayama/career_dev/blob/main/reports/part1-4_senior_depth_and_interview.md) | MD | Part1-4補強: 第一線深層トピック5・STAR想定Q&A 10問・業界チートシート・学習ロードマップ |
 | [reports/_tmp/part1_rev_a.md](https://github.com/KazuyaMurayama/career_dev/blob/main/reports/_tmp/part1_rev_a.md) | MD | Part1 改訂版A（一時ファイル） |
 | [reports/_tmp/part1_rev_b.md](https://github.com/KazuyaMurayama/career_dev/blob/main/reports/_tmp/part1_rev_b.md) | MD | Part1 改訂版B（一時ファイル） |
 
